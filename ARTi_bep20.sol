@@ -1,3 +1,8 @@
+/**
+* ARTi Token - Smart Contract for Binance Smart Chain  
+*/
+
+
 pragma solidity ^0.8.2;
 
 contract Token {
