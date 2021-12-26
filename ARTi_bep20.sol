@@ -10,7 +10,7 @@ pragma solidity ^0.8.2;
 contract Token {
     mapping(address => uint) public balances;
     mapping(address => mapping(address => uint)) public allowance;
-    uint public totalSupply = 10000 * 10 ** 8;
+    uint public totalSupply = 1000000000 * 10 ** 8;
     string public name = "ARTI PROJECT";
     string public symbol = "ARTI";
     uint public decimals = 8;
